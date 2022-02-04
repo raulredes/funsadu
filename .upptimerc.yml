@@ -7,12 +7,17 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Unanue
-    url: http://unanue.funsadu.ar:60080
-  - name: Cuchilloco
-    url: http://cuchilloco.funsadu.ar:60080
-  - name: Ceferino
-    url: http://ceferino.funsadu.ar:60080
+  - name: Gestion
+    url: https://gestion.funsadu.ar/Radius/
+  - name: Aircontrol
+    url: https://radios.funsadu.ar:9082
+    __dangerous__insecure: true
+  # - name: Unanue
+  #  url: http://unanue.funsadu.ar:60080
+  # - name: Cuchilloco
+  #  url: http://cuchilloco.funsadu.ar:60080
+  # - name: Ceferino
+  #  url: http://ceferino.funsadu.ar:60080
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
