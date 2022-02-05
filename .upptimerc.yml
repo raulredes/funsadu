@@ -11,7 +11,8 @@ sites:
   - name: Ceferino
     url: http://ceferino.funsadu.ar:60080
   - name: Aircontrol
-    url: http://radios.funsadu.ar:9082
+    url: https://radios.funsadu.ar:9082
+    __dangerous__insecure: true
   - name: Gestion
     url: https://gestion.funsadu.ar/Radius/
   - name: VpnAuxiliar
