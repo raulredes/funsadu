@@ -95,18 +95,16 @@
     "icon": "https://favicons.githubusercontent.com/143.255.155.1",
     "slug": "vpn-auxiliar",
     "status": "up",
-    "uptime": "90.51%",
-    "uptimeDay": "90.51%",
-    "uptimeWeek": "90.51%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "90.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 440,
     "timeWeek": 440,
     "timeMonth": 440,
     "timeYear": 440,
-    "dailyMinutesDown": {
-      "2022-02-05": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
