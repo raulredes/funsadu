@@ -29,7 +29,7 @@ status-website:
   cname: estado.funsadu.ar
   # baseUrl: /funsadu
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Estado de Funsadu
+  name: Estado
   introTitle: "**Estado** de los equipos "
   introMessage: Los equipos se monitorean cada 5 minutos, y se grafica el tiempo medio de respuesta
   navbar:
