@@ -50,7 +50,7 @@ i18n:
     incidentSubscribe: Subscribirse para estar actualizado
     incidentViewOnGitHub: Ver en GitHub
     incidentCommentSummary: Actualizado $DATE por $AUTHOR
-    incidentBack: ← Ver todos los incidentes
+    incidentBack: ← Volver
     pastIncidents: Incidentes anteriores
     pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS comentarios
     liveStatus: Estado Actual
