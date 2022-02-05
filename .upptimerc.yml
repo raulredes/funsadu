@@ -39,3 +39,61 @@ status-website:
       href: https://gestion.rpsa.ar/Radius/
 
 # Upptime also supports notifications, assigning issues, and more
+
+i18n:
+activeIncidents: Incidentes Activos
+allSystemsOperational: Todos los Sistemas funcionando
+incidentReport: "Incidente #$NUMBER reporte →"
+activeIncidentSummary: Abierto $DATE con $POSTS posts
+incidentTitle: Incidente $NUMBER Detalle
+incidentDetails: Incidente Detalle
+incidentFixed: Solucionado
+incidentOngoing: Pendiente
+incidentOpenedAt: Abierto
+incidentClosedAt: Cerrado
+incidentSubscribe: Subscribirse para Actualizarse
+incidentViewOnGitHub: Ver en GitHub
+incidentCommentSummary: Actualizado $DATE por $AUTHOR
+incidentBack: ← Ver todos los incidentes
+pastIncidents: Incidentes anteriores
+pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS comentarios
+liveStatus: Estado Actual
+overallUptime: "Tiempo funcionando: $UPTIME"
+overallUptimeTitle: eimpo funcionando
+averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
+averageResponseTimeTitle: Respuesta promedio
+sevelDayResponseTime: Tiempo de respuesta semanal
+responseTimeMs: Tiempo de respuesta (ms)
+up: Bien
+down: Mal
+degraded: Degradado
+ms: ms
+loading: Loading
+navGitHub: GitHub
+footer: This page is [open source], powered by [Upptime](https://upptime.js.org)
+rateLimitExceededTitle: Cantidad excedida
+rateLimitExceededIntro: Te pasaste de la cantidad de intentos por hora.
+rateLimitExceededWhatDoesErrorMean: Que significa esto?
+rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+rateLimitExceededErrorHowCanFix: How can I fix it?
+rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+rateLimitExceededHasSet: You have a personal access token set.
+rateLimitExceededRemoveToken: Remove token
+rateLimitExceededGitHubPAT: GitHub Personal Access Token
+rateLimitExceededCopyPastePAT: Copy and paste your token
+rateLimitExceededSaveToken: Save token
+errorTitle: Algo fallo
+errorIntro: Algo fallo al actualizar el estado actual
+errorText: Proba en un rato.
+errorHome: Volver al Inicio
+pastScheduledMaintenance: Past Scheduled Maintenance
+scheduledMaintenance: Scheduled Maintenance
+scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+startedAt: Comenzo
+startsAt: Comienza 
+duration: Duracion
+durationMin: $DURATION minutos
+incidentCompleted: Completo
+incidentScheduled: Programado
