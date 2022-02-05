@@ -10,8 +10,9 @@ sites:
   - name: Gestion
     url: https://gestion.funsadu.ar/Radius/
   - name: Aircontrol
-    url: https://radios.funsadu.ar:9082
-    __dangerous__insecure: true
+    check: "tcp-ping"
+    url: radios.funsadu.ar
+    port: 9082
   # - name: Unanue
   #  url: http://unanue.funsadu.ar:60080
   # - name: Cuchilloco
