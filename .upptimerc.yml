@@ -15,7 +15,7 @@ sites:
     __dangerous__insecure: true
   - name: Gestion
     url: https://gestion.funsadu.ar/Radius/
-  - name: VpnAuxiliar
+  - name: Auxiliar de Prueba
     url: http://143.255.155.1:60080
     
 
