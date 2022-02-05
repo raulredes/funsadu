@@ -40,7 +40,8 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 
-i18n:    activeIncidents: Incidentes Activos
+i18n:
+    activeIncidents: Incidentes Activos
     allSystemsOperational: Todos los Sistemas funcionando
     incidentReport: "Incidente #$NUMBER reporte →"
     activeIncidentSummary: Abierto $DATE con $POSTS posts
