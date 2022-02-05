@@ -94,17 +94,19 @@
     "url": "http://143.255.155.1:60080",
     "icon": "https://favicons.githubusercontent.com/143.255.155.1",
     "slug": "vpn-auxiliar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 407,
     "timeDay": 407,
     "timeWeek": 407,
     "timeMonth": 407,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   }
 ]
