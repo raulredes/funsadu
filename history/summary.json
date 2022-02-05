@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/radios.funsadu.ar",
     "slug": "aircontrol",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 387,
     "timeDay": 387,
     "timeWeek": 387,
     "timeMonth": 387,
     "timeYear": 387,
-    "dailyMinutesDown": {
-      "2022-02-05": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gestion",
