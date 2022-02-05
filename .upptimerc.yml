@@ -24,8 +24,8 @@ sites:
     url: https://gestion.funsadu.ar/Radius/
   - name: VpnAuxiliar
     # check: "tcp-ping"
-    url: http://143.255.155.1
-    port: 60080
+    url: http://143.255.155.1:60080
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -62,7 +62,7 @@ i18n:
     pastIncidents: Incidentes anteriores
     pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS comentarios
     liveStatus: Estado Actual
-    overallUptime: "Funcionando: $UPTIME"
+    overallUptime: "Porcentaje Funcionando: $UPTIME"
     overallUptimeTitle: Tiempo funcionando
     averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
     averageResponseTimeTitle: Respuesta promedio
