@@ -24,7 +24,7 @@ sites:
     url: https://gestion.funsadu.ar/Radius/
   - name: VpnAuxiliar
     # check: "tcp-ping"
-    url: http://143.255.155.252
+    url: http://143.255.155.1
     port: 60080
 
 status-website:
