@@ -5,25 +5,16 @@ repo: funsadu # The name of this repository
 sites:
 
   - name: Unanue
-    check: "tcp-ping"
-    url: unanue.funsadu.ar
-    port: 60080
+    url: http://unanue.funsadu.ar:60080
   - name: Cuchilloco
-    check: "tcp-ping"
-    url: cuchilloco.funsadu.ar
-    port: 60080
+    url: http://cuchilloco.funsadu.ar:60080
   - name: Ceferino
-    check: "tcp-ping"
-    url: ceferino.funsadu.ar
-    port: 60080
+    url: http://ceferino.funsadu.ar:60080
   - name: Aircontrol
-    check: "tcp-ping"
-    url: radios.funsadu.ar
-    port: 9082
+    url: http://radios.funsadu.ar:9082
   - name: Gestion
     url: https://gestion.funsadu.ar/Radius/
   - name: VpnAuxiliar
-    # check: "tcp-ping"
     url: http://143.255.155.1:60080
     
 
