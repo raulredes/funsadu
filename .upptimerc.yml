@@ -33,7 +33,7 @@ status-website:
   introTitle: "**Estado** de los equipos "
   introMessage: Los equipos se monitorean cada 5 minutos, y se grafica el tiempo medio de respuesta
   navbar:
-    - title: Status
+    - title: Estado
       href: /
     - title: Gestion
       href: https://gestion.rpsa.ar/Radius/
@@ -43,23 +43,23 @@ status-website:
 i18n:
     activeIncidents: Incidentes Activos
     allSystemsOperational: Todos los Sistemas funcionando
-    incidentReport: "Incidente #$NUMBER reporte →"
+    incidentReport: "Incidente #$NUMBER  →"
     activeIncidentSummary: Abierto $DATE con $POSTS posts
-    incidentTitle: Incidente $NUMBER Detalle
-    incidentDetails: Incidente Detalle
+    incidentTitle: Detalle de Incidente $NUMBER 
+    incidentDetails: Detalle de Incidente 
     incidentFixed: Solucionado
     incidentOngoing: Pendiente
     incidentOpenedAt: Abierto
     incidentClosedAt: Cerrado
-    incidentSubscribe: Subscribirse para Actualizarse
+    incidentSubscribe: Subscribirse para estar actualizado
     incidentViewOnGitHub: Ver en GitHub
     incidentCommentSummary: Actualizado $DATE por $AUTHOR
     incidentBack: ← Ver todos los incidentes
     pastIncidents: Incidentes anteriores
     pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS comentarios
     liveStatus: Estado Actual
-    overallUptime: "Tiempo funcionando: $UPTIME"
-    overallUptimeTitle: eimpo funcionando
+    overallUptime: "Funcionando: $UPTIME"
+    overallUptimeTitle: Tiempo funcionando
     averageResponseTime: "Tiempo medio de respuesta: $TIMEms"
     averageResponseTimeTitle: Respuesta promedio
     sevelDayResponseTime: Tiempo de respuesta semanal
