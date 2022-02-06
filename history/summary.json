@@ -4,54 +4,60 @@
     "url": "http://unanue.funsadu.ar:60080",
     "icon": "https://favicons.githubusercontent.com/unanue.funsadu.ar",
     "slug": "unanue",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 402,
     "timeDay": 358,
     "timeWeek": 402,
     "timeMonth": 402,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 1
+    }
   },
   {
     "name": "Cuchilloco",
     "url": "http://cuchilloco.funsadu.ar:60080",
     "icon": "https://favicons.githubusercontent.com/cuchilloco.funsadu.ar",
     "slug": "cuchilloco",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 394,
     "timeDay": 384,
     "timeWeek": 394,
     "timeMonth": 394,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 1
+    }
   },
   {
     "name": "Ceferino",
     "url": "http://ceferino.funsadu.ar:60080",
     "icon": "https://favicons.githubusercontent.com/ceferino.funsadu.ar",
     "slug": "ceferino",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 380,
     "timeDay": 357,
     "timeWeek": 380,
     "timeMonth": 380,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-06": 0
+    }
   },
   {
     "name": "Aircontrol",
