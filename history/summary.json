@@ -159,9 +159,9 @@
     "url": "http://143.255.155.1:60080",
     "icon": "https://favicons.githubusercontent.com/143.255.155.1",
     "slug": "auxiliar-de-prueba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.82%",
@@ -171,6 +171,7 @@
     "timeMonth": 381,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2022-05-03": 0,
       "2022-04-03": 225
     }
   }
