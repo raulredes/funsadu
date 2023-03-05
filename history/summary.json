@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/unanue.funsadu.ar.ico",
     "slug": "unanue",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.52%",
-    "time": 672,
-    "timeDay": 561,
-    "timeWeek": 638,
-    "timeMonth": 689,
+    "time": 671,
+    "timeDay": 642,
+    "timeWeek": 649,
+    "timeMonth": 683,
     "timeYear": 683,
     "dailyMinutesDown": {
       "2023-02-26": 41,
@@ -31,8 +31,7 @@
       "2022-03-25": 252,
       "2022-03-18": 18,
       "2022-03-07": 821,
-      "2022-03-06": 326,
-      "2022-03-05": 57
+      "2022-03-06": 326
     }
   },
   {
@@ -47,9 +46,9 @@
     "uptimeMonth": "98.71%",
     "uptimeYear": "98.64%",
     "time": 706,
-    "timeDay": 576,
-    "timeWeek": 704,
-    "timeMonth": 692,
+    "timeDay": 656,
+    "timeWeek": 716,
+    "timeMonth": 686,
     "timeYear": 700,
     "dailyMinutesDown": {
       "2023-03-01": 119,
@@ -105,8 +104,7 @@
       "2022-03-16": 20,
       "2022-03-15": 17,
       "2022-03-07": 821,
-      "2022-03-06": 326,
-      "2022-03-05": 56
+      "2022-03-06": 326
     }
   },
   {
@@ -121,8 +119,8 @@
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.36%",
     "time": 662,
-    "timeDay": 625,
-    "timeWeek": 612,
+    "timeDay": 672,
+    "timeWeek": 636,
     "timeMonth": 614,
     "timeYear": 675,
     "dailyMinutesDown": {
@@ -150,8 +148,7 @@
       "2022-03-25": 243,
       "2022-03-18": 17,
       "2022-03-07": 821,
-      "2022-03-06": 325,
-      "2022-03-05": 56
+      "2022-03-06": 325
     }
   },
   {
@@ -161,13 +158,13 @@
     "slug": "aircontrol",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "60.64%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.38%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.81%",
-    "time": 749,
-    "timeDay": 723,
-    "timeWeek": 744,
+    "time": 750,
+    "timeDay": 847,
+    "timeWeek": 762,
     "timeMonth": 747,
     "timeYear": 755,
     "dailyMinutesDown": {
@@ -183,15 +180,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gestion.funsadu.ar.ico",
     "slug": "gestion",
     "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "60.65%",
+    "uptime": "99.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "94.38%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.33%",
-    "time": 1029,
-    "timeDay": 2302,
-    "timeWeek": 1387,
-    "timeMonth": 1213,
+    "time": 1028,
+    "timeDay": 893,
+    "timeWeek": 1392,
+    "timeMonth": 1210,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2023-03-03": 567,
@@ -214,15 +211,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/143.255.155.1.ico",
     "slug": "auxiliar-de-prueba",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "97.80%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.87%",
     "time": 370,
-    "timeDay": 360,
-    "timeWeek": 374,
-    "timeMonth": 369,
+    "timeDay": 387,
+    "timeWeek": 381,
+    "timeMonth": 367,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2023-03-03": 32,
