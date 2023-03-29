@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "99.47%",
-    "time": 670,
-    "timeDay": 604,
-    "timeWeek": 608,
-    "timeMonth": 646,
+    "time": 671,
+    "timeDay": 850,
+    "timeWeek": 649,
+    "timeMonth": 652,
     "timeYear": 684,
     "dailyMinutesDown": {
       "2023-03-18": 514,
@@ -28,8 +28,7 @@
       "2022-11-09": 84,
       "2022-10-23": 92,
       "2022-08-19": 41,
-      "2022-04-22": 23,
-      "2022-03-29": 20
+      "2022-04-22": 23
     }
   },
   {
@@ -38,16 +37,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuchilloco.funsadu.ar.ico",
     "slug": "cuchilloco",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "95.24%",
     "uptimeYear": "98.59%",
-    "time": 708,
-    "timeDay": 673,
-    "timeWeek": 907,
-    "timeMonth": 726,
-    "timeYear": 710,
+    "time": 709,
+    "timeDay": 1563,
+    "timeWeek": 964,
+    "timeMonth": 750,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2023-03-22": 201,
       "2023-03-18": 514,
@@ -97,8 +96,7 @@
       "2022-04-20": 70,
       "2022-04-11": 18,
       "2022-04-09": 71,
-      "2022-04-05": 36,
-      "2022-03-29": 19
+      "2022-04-05": 36
     }
   },
   {
@@ -112,10 +110,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.04%",
     "uptimeYear": "99.31%",
-    "time": 661,
-    "timeDay": 566,
-    "timeWeek": 611,
-    "timeMonth": 651,
+    "time": 662,
+    "timeDay": 839,
+    "timeWeek": 650,
+    "timeMonth": 657,
     "timeYear": 662,
     "dailyMinutesDown": {
       "2023-03-18": 513,
@@ -139,8 +137,7 @@
       "2022-05-25": 36,
       "2022-04-23": 103,
       "2022-04-22": 47,
-      "2022-03-30": 29,
-      "2022-03-29": 19
+      "2022-03-30": 29
     }
   },
   {
@@ -155,10 +152,10 @@
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.81%",
     "time": 751,
-    "timeDay": 603,
-    "timeWeek": 748,
-    "timeMonth": 763,
-    "timeYear": 759,
+    "timeDay": 863,
+    "timeWeek": 775,
+    "timeMonth": 766,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2023-03-03": 567,
       "2022-10-03": 32,
@@ -172,15 +169,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gestion.funsadu.ar.ico",
     "slug": "gestion",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "99.33%",
     "time": 1025,
-    "timeDay": 861,
-    "timeWeek": 906,
-    "timeMonth": 1080,
+    "timeDay": 1186,
+    "timeWeek": 958,
+    "timeMonth": 1083,
     "timeYear": 1027,
     "dailyMinutesDown": {
       "2023-03-03": 567,
@@ -193,8 +190,7 @@
       "2022-06-30": 177,
       "2022-06-29": 23,
       "2022-06-21": 50,
-      "2022-03-30": 855,
-      "2022-03-29": 683
+      "2022-03-30": 855
     }
   },
   {
@@ -209,9 +205,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.86%",
     "time": 370,
-    "timeDay": 320,
-    "timeWeek": 354,
-    "timeMonth": 372,
+    "timeDay": 439,
+    "timeWeek": 370,
+    "timeMonth": 374,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2023-03-24": 16,
