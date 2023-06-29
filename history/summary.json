@@ -11,9 +11,9 @@
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.43%",
     "time": 675,
-    "timeDay": 814,
-    "timeWeek": 656,
-    "timeMonth": 634,
+    "timeDay": 708,
+    "timeWeek": 639,
+    "timeMonth": 638,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2023-06-11": 87,
@@ -39,15 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cuchilloco.funsadu.ar.ico",
     "slug": "cuchilloco",
     "status": "up",
-    "uptime": "98.23%",
+    "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "98.47%",
     "time": 710,
-    "timeDay": 827,
-    "timeWeek": 835,
-    "timeMonth": 719,
+    "timeDay": 813,
+    "timeWeek": 822,
+    "timeMonth": 724,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2023-06-14": 46,
@@ -99,8 +99,7 @@
       "2022-07-20": 67,
       "2022-07-14": 22,
       "2022-07-07": 198,
-      "2022-06-30": 130,
-      "2022-06-29": 40
+      "2022-06-30": 130
     }
   },
   {
@@ -114,10 +113,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.38%",
-    "time": 660,
-    "timeDay": 860,
-    "timeWeek": 678,
-    "timeMonth": 619,
+    "time": 661,
+    "timeDay": 716,
+    "timeWeek": 662,
+    "timeMonth": 623,
     "timeYear": 654,
     "dailyMinutesDown": {
       "2023-06-11": 86,
@@ -152,8 +151,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 756,
-    "timeDay": 978,
-    "timeWeek": 747,
+    "timeDay": 703,
+    "timeWeek": 723,
     "timeMonth": 753,
     "timeYear": 759,
     "dailyMinutesDown": {
@@ -175,10 +174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 1019,
-    "timeDay": 1141,
-    "timeWeek": 929,
-    "timeMonth": 939,
-    "timeYear": 1009,
+    "timeDay": 1151,
+    "timeWeek": 953,
+    "timeMonth": 942,
+    "timeYear": 1008,
     "dailyMinutesDown": {
       "2023-03-03": 567,
       "2022-10-06": 26,
@@ -187,8 +186,7 @@
       "2022-07-23": 184,
       "2022-07-03": 17,
       "2022-07-01": 748,
-      "2022-06-30": 177,
-      "2022-06-29": 23
+      "2022-06-30": 177
     }
   },
   {
@@ -203,8 +201,8 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
     "time": 375,
-    "timeDay": 434,
-    "timeWeek": 404,
+    "timeDay": 373,
+    "timeWeek": 395,
     "timeMonth": 373,
     "timeYear": 381,
     "dailyMinutesDown": {
