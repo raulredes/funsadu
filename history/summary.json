@@ -111,10 +111,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceferino.funsadu.ar.ico",
     "slug": "ceferino",
     "status": "up",
-    "uptime": "92.65%",
+    "uptime": "92.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.50%",
-    "uptimeMonth": "6.26%",
+    "uptimeWeek": "47.39%",
+    "uptimeMonth": "9.00%",
     "uptimeYear": "89.33%",
     "time": 671,
     "timeDay": 580,
@@ -187,9 +187,9 @@
     "url": "https://radios.funsadu.ar:9082",
     "icon": "https://icons.duckduckgo.com/ip3/radios.funsadu.ar.ico",
     "slug": "aircontrol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -199,6 +199,7 @@
     "timeMonth": 969,
     "timeYear": 789,
     "dailyMinutesDown": {
+      "2023-08-26": 0,
       "2023-03-03": 567,
       "2022-10-03": 32
     }
