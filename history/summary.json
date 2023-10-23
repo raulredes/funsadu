@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 680,
-    "timeDay": 855,
-    "timeWeek": 1029,
+    "timeDay": 574,
+    "timeWeek": 993,
     "timeMonth": 786,
-    "timeYear": 673,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2023-08-27": 176,
       "2023-07-06": 205,
@@ -31,8 +31,7 @@
       "2023-01-20": 88,
       "2023-01-10": 17,
       "2022-12-23": 482,
-      "2022-11-09": 84,
-      "2022-10-23": 92
+      "2022-11-09": 84
     }
   },
   {
@@ -45,11 +44,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "99.28%",
-    "uptimeYear": "98.53%",
+    "uptimeYear": "98.56%",
     "time": 795,
-    "timeDay": 853,
-    "timeWeek": 831,
-    "timeMonth": 816,
+    "timeDay": 1014,
+    "timeWeek": 852,
+    "timeMonth": 826,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-10-20": 155,
@@ -101,8 +100,7 @@
       "2022-11-09": 84,
       "2022-11-08": 53,
       "2022-11-02": 44,
-      "2022-10-29": 46,
-      "2022-10-23": 92
+      "2022-10-29": 46
     }
   },
   {
@@ -111,15 +109,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceferino.funsadu.ar.ico",
     "slug": "ceferino",
     "status": "up",
-    "uptime": "93.10%",
+    "uptime": "93.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "95.90%",
     "uptimeYear": "88.96%",
     "time": 670,
-    "timeDay": 838,
-    "timeWeek": 1015,
-    "timeMonth": 788,
+    "timeDay": 605,
+    "timeWeek": 990,
+    "timeMonth": 789,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2023-10-17": 17,
@@ -183,8 +181,7 @@
       "2022-12-24": 90,
       "2022-12-23": 481,
       "2022-12-21": 20,
-      "2022-11-09": 83,
-      "2022-10-23": 91
+      "2022-11-09": 83
     }
   },
   {
@@ -198,11 +195,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 793,
-    "timeDay": 674,
-    "timeWeek": 448,
-    "timeMonth": 507,
-    "timeYear": 798,
+    "time": 791,
+    "timeDay": 253,
+    "timeWeek": 386,
+    "timeMonth": 488,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-03-03": 567
     }
@@ -218,11 +215,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
-    "time": 1082,
-    "timeDay": 545,
-    "timeWeek": 399,
-    "timeMonth": 439,
-    "timeYear": 1081,
+    "time": 1079,
+    "timeDay": 163,
+    "timeWeek": 343,
+    "timeMonth": 395,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2023-10-04": 21,
       "2023-03-03": 567
@@ -235,17 +232,16 @@
     "slug": "auxiliar-de-prueba",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "97.66%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.89%",
     "time": 377,
-    "timeDay": 377,
-    "timeWeek": 363,
+    "timeDay": 312,
+    "timeWeek": 356,
     "timeMonth": 356,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2023-10-22": 8,
       "2023-10-21": 108,
       "2023-10-20": 120,
       "2023-09-11": 21,
