@@ -1,7 +1,7 @@
 url: http://143.255.155.1:60080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-07T17:24:17.754Z
+status: up
+code: 200
+responseTime: 409
+lastUpdated: 2023-11-07T17:32:39.982Z
 startTime: 2022-02-05T21:58:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
