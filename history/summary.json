@@ -11,10 +11,10 @@
     "uptimeMonth": "97.72%",
     "uptimeYear": "99.21%",
     "time": 694,
-    "timeDay": 874,
-    "timeWeek": 719,
-    "timeMonth": 675,
-    "timeYear": 693,
+    "timeDay": 833,
+    "timeWeek": 749,
+    "timeMonth": 674,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2023-12-17": 881,
       "2023-12-16": 70,
@@ -49,9 +49,9 @@
     "uptimeMonth": "96.03%",
     "uptimeYear": "98.35%",
     "time": 823,
-    "timeDay": 849,
-    "timeWeek": 972,
-    "timeMonth": 850,
+    "timeDay": 820,
+    "timeWeek": 996,
+    "timeMonth": 833,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2023-12-17": 881,
@@ -110,16 +110,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceferino.funsadu.ar.ico",
     "slug": "ceferino",
     "status": "up",
-    "uptime": "93.56%",
+    "uptime": "93.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.75%",
+    "uptimeMonth": "97.28%",
     "uptimeYear": "88.76%",
-    "time": 726,
-    "timeDay": 3720,
-    "timeWeek": 1142,
-    "timeMonth": 847,
-    "timeYear": 747,
+    "time": 727,
+    "timeDay": 826,
+    "timeWeek": 1166,
+    "timeMonth": 816,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2023-12-17": 881,
       "2023-12-16": 69,
@@ -201,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 740,
-    "timeDay": 574,
-    "timeWeek": 455,
-    "timeMonth": 370,
+    "timeDay": 586,
+    "timeWeek": 512,
+    "timeMonth": 376,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2023-03-03": 567
@@ -220,11 +220,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 966,
-    "timeDay": 582,
-    "timeWeek": 416,
-    "timeMonth": 338,
-    "timeYear": 983,
+    "time": 965,
+    "timeDay": 581,
+    "timeWeek": 453,
+    "timeMonth": 340,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2023-10-04": 21,
       "2023-03-03": 567
@@ -242,8 +242,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 378,
-    "timeDay": 445,
-    "timeWeek": 389,
+    "timeDay": 437,
+    "timeWeek": 401,
     "timeMonth": 360,
     "timeYear": 379,
     "dailyMinutesDown": {
@@ -257,8 +257,7 @@
       "2023-06-25": 75,
       "2023-03-24": 16,
       "2023-03-03": 32,
-      "2023-03-01": 20,
-      "2022-12-26": 16
+      "2023-03-01": 20
     }
   }
 ]
