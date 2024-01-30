@@ -11,8 +11,8 @@
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.11%",
     "time": 694,
-    "timeDay": 816,
-    "timeWeek": 754,
+    "timeDay": 566,
+    "timeWeek": 755,
     "timeMonth": 694,
     "timeYear": 699,
     "dailyMinutesDown": {
@@ -51,8 +51,8 @@
     "uptimeMonth": "97.92%",
     "uptimeYear": "98.29%",
     "time": 837,
-    "timeDay": 846,
-    "timeWeek": 1252,
+    "timeDay": 566,
+    "timeWeek": 1251,
     "timeMonth": 884,
     "timeYear": 867,
     "dailyMinutesDown": {
@@ -106,8 +106,7 @@
       "2023-02-23": 302,
       "2023-02-22": 56,
       "2023-02-01": 168,
-      "2023-01-31": 25,
-      "2023-01-30": 28
+      "2023-01-31": 25
     }
   },
   {
@@ -116,15 +115,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceferino.funsadu.ar.ico",
     "slug": "ceferino",
     "status": "up",
-    "uptime": "93.73%",
+    "uptime": "93.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "97.02%",
     "uptimeYear": "88.51%",
     "time": 752,
-    "timeDay": 828,
-    "timeWeek": 1555,
-    "timeMonth": 962,
+    "timeDay": 602,
+    "timeWeek": 1556,
+    "timeMonth": 963,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2024-01-26": 86,
@@ -211,11 +210,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 711,
-    "timeDay": 689,
+    "time": 710,
+    "timeDay": 298,
     "timeWeek": 367,
-    "timeMonth": 353,
-    "timeYear": 698,
+    "timeMonth": 352,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2023-03-03": 567
     }
@@ -231,11 +230,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 928,
-    "timeDay": 669,
-    "timeWeek": 370,
+    "time": 926,
+    "timeDay": 244,
+    "timeWeek": 360,
     "timeMonth": 353,
-    "timeYear": 930,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2023-10-04": 21,
       "2023-03-03": 567
@@ -253,7 +252,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 378,
-    "timeDay": 445,
+    "timeDay": 312,
     "timeWeek": 356,
     "timeMonth": 356,
     "timeYear": 378,
