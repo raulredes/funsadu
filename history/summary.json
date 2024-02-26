@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/unanue.funsadu.ar.ico",
     "slug": "unanue",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.13%",
     "time": 701,
-    "timeDay": 564,
-    "timeWeek": 995,
-    "timeMonth": 816,
+    "timeDay": 669,
+    "timeWeek": 838,
+    "timeMonth": 819,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2024-02-07": 39,
@@ -34,8 +34,7 @@
       "2023-05-30": 16,
       "2023-03-18": 514,
       "2023-03-13": 226,
-      "2023-03-12": 996,
-      "2023-02-26": 41
+      "2023-03-12": 996
     }
   },
   {
@@ -47,13 +46,13 @@
     "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "98.43%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "98.30%",
-    "time": 852,
-    "timeDay": 646,
-    "timeWeek": 890,
-    "timeMonth": 856,
-    "timeYear": 872,
+    "time": 853,
+    "timeDay": 1130,
+    "timeWeek": 950,
+    "timeMonth": 871,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2024-02-19": 61,
       "2024-02-15": 27,
@@ -106,8 +105,7 @@
       "2023-03-13": 226,
       "2023-03-12": 996,
       "2023-03-01": 119,
-      "2023-02-28": 29,
-      "2023-02-26": 40
+      "2023-02-28": 29
     }
   },
   {
@@ -116,16 +114,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceferino.funsadu.ar.ico",
     "slug": "ceferino",
     "status": "up",
-    "uptime": "93.95%",
+    "uptime": "93.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "88.55%",
-    "time": 761,
-    "timeDay": 594,
-    "timeWeek": 797,
-    "timeMonth": 1055,
-    "timeYear": 797,
+    "time": 762,
+    "timeDay": 1226,
+    "timeWeek": 887,
+    "timeMonth": 1074,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2024-02-07": 38,
       "2024-01-26": 86,
@@ -194,8 +192,7 @@
       "2023-06-02": 174,
       "2023-03-18": 513,
       "2023-03-13": 225,
-      "2023-03-12": 995,
-      "2023-02-26": 40
+      "2023-03-12": 995
     }
   },
   {
@@ -210,10 +207,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 692,
-    "timeDay": 266,
-    "timeWeek": 457,
-    "timeMonth": 398,
-    "timeYear": 672,
+    "timeDay": 291,
+    "timeWeek": 446,
+    "timeMonth": 399,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2023-03-03": 567
     }
@@ -223,18 +220,19 @@
     "url": "https://gestion.funsadu.ar/Radius/",
     "icon": "https://icons.duckduckgo.com/ip3/gestion.funsadu.ar.ico",
     "slug": "gestion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 900,
-    "timeDay": 229,
-    "timeWeek": 475,
-    "timeMonth": 399,
-    "timeYear": 879,
+    "time": 898,
+    "timeDay": 339,
+    "timeWeek": 468,
+    "timeMonth": 401,
+    "timeYear": 877,
     "dailyMinutesDown": {
+      "2024-02-26": 0,
       "2023-10-04": 21,
       "2023-03-03": 567
     }
@@ -251,9 +249,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 383,
-    "timeDay": 314,
-    "timeWeek": 395,
-    "timeMonth": 457,
+    "timeDay": 354,
+    "timeWeek": 396,
+    "timeMonth": 459,
     "timeYear": 384,
     "dailyMinutesDown": {
       "2023-11-27": 19,
