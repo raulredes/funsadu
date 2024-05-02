@@ -1,7 +1,7 @@
 url: https://radios.funsadu.ar:9082
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-02T04:07:41.519Z
+status: up
+code: 200
+responseTime: 479
+lastUpdated: 2024-05-02T04:25:31.157Z
 startTime: 2022-02-05T13:55:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
