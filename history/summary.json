@@ -195,10 +195,10 @@
     "url": "https://radios.funsadu.ar:9082",
     "icon": "https://icons.duckduckgo.com/ip3/radios.funsadu.ar.ico",
     "slug": "aircontrol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 646,
@@ -207,6 +207,7 @@
     "timeMonth": 327,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2024-05-02": 1,
       "2024-04-26": 16
     }
   },
@@ -215,10 +216,10 @@
     "url": "https://gestion.funsadu.ar/Radius/",
     "icon": "https://icons.duckduckgo.com/ip3/gestion.funsadu.ar.ico",
     "slug": "gestion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 810,
@@ -227,6 +228,7 @@
     "timeMonth": 343,
     "timeYear": 744,
     "dailyMinutesDown": {
+      "2024-05-02": 0,
       "2024-04-26": 15,
       "2024-02-26": 54,
       "2023-10-04": 21
