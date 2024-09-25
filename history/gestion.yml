@@ -1,7 +1,7 @@
 url: https://gestion.funsadu.ar/Radius/
-status: up
-code: 200
-responseTime: 121
-lastUpdated: 2024-09-25T13:45:27.031Z
+status: down
+code: 500
+responseTime: 256
+lastUpdated: 2024-09-25T14:10:06.331Z
 startTime: 2022-02-05T14:38:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
