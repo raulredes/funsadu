@@ -90,8 +90,7 @@
       "2024-02-06": 262,
       "2024-02-02": 77,
       "2024-01-30": 47,
-      "2024-01-26": 96,
-      "2024-01-25": 59
+      "2024-01-26": 96
     }
   },
   {
@@ -177,11 +176,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gestion.funsadu.ar.ico",
     "slug": "gestion",
     "status": "up",
-    "uptime": "3.76%",
+    "uptime": "3.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.28%",
-    "uptimeYear": "6.04%",
+    "uptimeMonth": "22.57%",
+    "uptimeYear": "6.11%",
     "time": 480,
     "timeDay": 541,
     "timeWeek": 358,
