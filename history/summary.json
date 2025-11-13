@@ -116,13 +116,13 @@
     "url": "http://ceferino.funsadu.ar:60080",
     "icon": "https://icons.duckduckgo.com/ip3/ceferino.funsadu.ar.ico",
     "slug": "ceferino",
-    "status": "up",
+    "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "91.18%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "94.83%",
-    "uptimeYear": "92.63%",
-    "time": 1201,
+    "uptimeDay": "91.17%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "94.92%",
+    "uptimeYear": "92.64%",
+    "time": 1202,
     "timeDay": 2416,
     "timeWeek": 1167,
     "timeMonth": 1516,
@@ -208,7 +208,7 @@
       "2025-02-16": 548,
       "2025-02-13": 165,
       "2025-02-08": 42,
-      "2025-02-07": 297
+      "2025-02-07": 264
     }
   },
   {
@@ -258,7 +258,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.24%",
+    "uptimeYear": "82.25%",
     "time": 461,
     "timeDay": 202,
     "timeWeek": 333,
