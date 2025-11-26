@@ -6,14 +6,14 @@
     "slug": "unanue",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "90.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "96.95%",
     "uptimeYear": "98.88%",
     "time": 688,
-    "timeDay": 635,
+    "timeDay": 665,
     "timeWeek": 624,
-    "timeMonth": 762,
+    "timeMonth": 763,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2025-11-24": 139,
@@ -43,8 +43,7 @@
       "2025-01-19": 261,
       "2025-01-16": 99,
       "2025-01-07": 42,
-      "2025-01-05": 40,
-      "2024-11-26": 324
+      "2025-01-05": 40
     }
   },
   {
@@ -54,14 +53,14 @@
     "slug": "cuchilloco",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "90.41%",
-    "uptimeWeek": "95.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.63%",
     "uptimeMonth": "95.71%",
     "uptimeYear": "98.17%",
     "time": 469,
-    "timeDay": 448,
-    "timeWeek": 436,
-    "timeMonth": 494,
+    "timeDay": 487,
+    "timeWeek": 438,
+    "timeMonth": 468,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-11-24": 138,
@@ -109,8 +108,7 @@
       "2025-01-16": 99,
       "2025-01-07": 42,
       "2025-01-05": 39,
-      "2024-12-11": 39,
-      "2024-11-26": 323
+      "2024-12-11": 39
     }
   },
   {
@@ -120,14 +118,14 @@
     "slug": "ceferino",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "90.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "93.85%",
     "uptimeYear": "92.46%",
     "time": 1217,
-    "timeDay": 706,
-    "timeWeek": 780,
-    "timeMonth": 1083,
+    "timeDay": 675,
+    "timeWeek": 778,
+    "timeMonth": 1082,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2025-11-24": 138,
@@ -228,9 +226,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
     "time": 431,
-    "timeDay": 668,
-    "timeWeek": 378,
-    "timeMonth": 429,
+    "timeDay": 454,
+    "timeWeek": 390,
+    "timeMonth": 432,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2025-09-30": 31,
@@ -259,16 +257,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gestion.funsadu.ar.ico",
     "slug": "gestion",
     "status": "up",
-    "uptime": "72.96%",
+    "uptime": "73.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.46%",
-    "time": 461,
-    "timeDay": 555,
-    "timeWeek": 331,
-    "timeMonth": 334,
-    "timeYear": 497,
+    "uptimeYear": "85.73%",
+    "time": 462,
+    "timeDay": 1026,
+    "timeWeek": 423,
+    "timeMonth": 356,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2025-09-30": 31,
       "2025-07-15": 197,
@@ -332,8 +330,7 @@
       "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
-      "2024-11-27": 1440,
-      "2024-11-26": 1440
+      "2024-11-27": 1440
     }
   },
   {
@@ -348,8 +345,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.86%",
     "time": 351,
-    "timeDay": 365,
-    "timeWeek": 341,
+    "timeDay": 356,
+    "timeWeek": 340,
     "timeMonth": 348,
     "timeYear": 344,
     "dailyMinutesDown": {
