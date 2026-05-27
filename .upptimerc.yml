@@ -18,7 +18,9 @@ sites:
   - name: Auxiliar de Prueba
     url: http://143.255.155.1:60080
     
-
+assignes:
+  - raulredes
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
